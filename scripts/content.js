@@ -1,3 +1,3 @@
 document.querySelectorAll('input[type="password"]').forEach(input => {
-  input.style.fontSize = "0";
+  input.style.color = window.getComputedStyle(input).backgroundColor;
 })
