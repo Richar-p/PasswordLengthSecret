@@ -8,5 +8,9 @@
       "js": ["./scripts/content.js"],
       "matches": ["*://*/*"]
     }
-  ]
+  ],
+  "icons": {
+    "48": "icons/icons.png",
+    "128": "icons/icons.png"
+  }
 }
